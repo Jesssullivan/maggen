@@ -4,7 +4,7 @@ See coilbot additions @ /coilbot_ArduinoRampsDriver/
 
 Added code for second RAMPS 1.4 stepper as a "back and forth" guide.
 
-See /archive for older hardware with that idea- new code is working well with RAMPS board (changes guide behavior based on width of coil bobbin, gauge of wire, threaded rod pitch, etc). Still need to push hardware with the guide mechanism.
+New code is working well with RAMPS board (changes guide behavior based on width of coil bobbin, gauge of wire, threaded rod pitch, etc). Still need to push hardware with the guide mechanism.
 
 Use an Arduino for coil winding.  Common projects that require coils include custom step / power transformers, guitar pickups, and motors.  
 This repo has been spurred by the efforts of Occupy Cars “BORGI” motor R&D.
